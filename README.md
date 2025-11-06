@@ -1,7 +1,7 @@
 # lateralised_visual_memories
 Updating an allocentric goal from lateralised egocentric visual memories
 
-Contains the data and code to run the analysis presented in our Nature Communication article:
+Contains the data and codes to run the analyses and display the figures presented in our Nature Communication article:
 
 Updating an allocentric goal from lateralised egocentric visual memories
 Antoine Wystrach, Florent Le Moël, Leo Clement, Sebastian Schwarz
